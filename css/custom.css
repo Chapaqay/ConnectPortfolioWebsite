@@ -36,7 +36,8 @@
 
 /* Form and button styles */
 .btn {
-    padding: 0 20px;
+    padding: 5px 20px;
+    font-size: 20px;
 }
 
 .btn-blue-custom {
@@ -52,10 +53,6 @@
 .btn-success-custom {
     border: 2px solid #21bf73;
     background-color: #21bf73;
-    color: #ffffff;
-}
-
-.btn-success-custom:hover {
     color: #ffffff;
 }
 
